@@ -70,3 +70,30 @@ The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
 
 
+# TB Kelompok 2 Informatika B
+Program Percetakan Paminggir Garut
+
+Anggota Kelompok 2 Informatika B
+- Nama (22060..)
+- Nama (22060..)
+- Nama (22060..)
+
+## Menginstall Database
+1. Buka pada XAMPP nyalakan Apache dan MySQL
+
+2. Selanjutnya buka domain web PhpMyAdmin
+```localhost/phpmyadmin```
+
+3. Buat Database pada PhpMyAdmin
+Dengan nama ```percetakan.sql```
+4. lalu insert file ```percetakan.sql``` kedalam database tersebut
+
+## Menggunakan Website Absensi
+1. Selanjutnya kita bisa membuka website dengan domain
+```locahost/........```
+
+- Login Akun
+```Username: admin```
+```Password: admin```
+
+### Selamat Menggunakan Website Percetakan

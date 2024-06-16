@@ -7,17 +7,13 @@ Anggota Kelompok 2 Informatika B
 - Aa Saeful basith (2206059)
 - Nur Hapianti (2206056)
 
-## Menginstall Database1.
-Buka pada XAMPP nyalakan Apache dan MySQL2.
+## Menginstall Database
+1. Buka pada XAMPP nyalakan Apache dan MySQL
 
-Selanjutnya buka domain web PhpMyAdmin ``localhost/phpmyadmin``
-
-
-3. Buat Database pada PhpMyAdmin
+2. Selanjutnya buka domain web PhpMyAdmin ``localhost/phpmyadmin``
 
 
-Dengan nama ``percetakan.sql``
-
+3. Buat Database pada PhpMyAdmin dengan nama ``percetakan.sql``
 
 4. lalu insert file ``percetakan.sql`` kedalam database tersebut
 ## Menggunakan Website Percetakan
@@ -32,4 +28,4 @@ Dengan nama ``percetakan.sql``
 ``Username: admin``
 ``Password: admin``
 
-###Selamat Menggunakan Website Percetakan
+### Selamat Menggunakan Website Percetakan
